@@ -1,11 +1,11 @@
 {
   "name": "coyno-kue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Kue wrapper library",
   "main": "index.js",
   "repository": {
-    "type" : "git",
-    "url" : "http://github.com/coyno/coyno-kue.git"
+    "type": "git",
+    "url": "http://github.com/coyno/coyno-kue.git"
   },
   "author": "Coyno <coyno@coyno.com>",
   "contributors": [
