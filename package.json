@@ -1,6 +1,6 @@
 {
   "name": "coyno-kue",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Kue wrapper library",
   "main": "index.js",
   "repository": {
