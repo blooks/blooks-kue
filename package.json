@@ -1,6 +1,6 @@
 {
   "name": "coyno-kue",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "description": "Kue wrapper library",
   "main": "index.js",
   "repository": {
@@ -21,8 +21,8 @@
     "build": "gulp"
   },
   "dependencies": {
-    "coyno-config": "^0.0.13",
-    "kue": "^0.8.11"
+    "coyno-config": "0.0.x",
+    "kue": "0.8.x"
   },
   "devDependencies": {
     "chai": "^1.10.0",
